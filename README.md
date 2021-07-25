@@ -25,4 +25,10 @@ Primo step del progetto :
      
      data consegna del progetto : Dicembre 2021 ... da consegnare e vendere.
      
+     Per visualizzare le fatture uso un software preso qui su github ... devo ricercarlo e metterò il link.
+     
+     26/07/2021 (domani) posterò il codice sorgente del software per inviare le pec con la fattura elettronica e ricevere le notifiche e fatture di acquisto. Il software chiamato project1 ( :( ) è strettamente legato al programma gica_office che lo richiama con il comando winexec in delphi 6 e createprocess con delphi 10.3.
+     
+     
+     
      
