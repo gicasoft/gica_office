@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/10/29 03:05:46.000.653,=C:\Users\Rosario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/29 03:58:04.000.812,C:\Users\Rosario\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Rosario\Documents\Embarcadero\Studio\Projects\Client_email_gicasoft\Unit1.pas</Transaction>
+    <Transaction>2018/10/29 03:58:04.000.812,C:\Users\Rosario\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Rosario\Documents\Embarcadero\Studio\Projects\Client_email_gicasoft\Unit1.dfm</Transaction>
+    <Transaction>2018/10/29 06:08:30.000.562,C:\Users\Rosario\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Rosario\Documents\Embarcadero\Studio\Projects\Client_email_gicasoft\Project1.dproj</Transaction>
+    <Transaction>2018/10/30 16:59:11.000.516,=C:\Users\Rosario\Documents\Embarcadero\Studio\Projects\Client_email_gicasoft\Unit2.pas</Transaction>
+    <Transaction>2018/10/30 17:03:18.000.304,C:\Users\Rosario\Documents\Embarcadero\Studio\Projects\Client_email_gicasoft\dmwin.dfm=C:\Users\Rosario\Documents\Embarcadero\Studio\Projects\Client_email_gicasoft\Unit2.dfm</Transaction>
+    <Transaction>2018/10/30 17:03:18.000.304,C:\Users\Rosario\Documents\Embarcadero\Studio\Projects\Client_email_gicasoft\dmwin.pas=C:\Users\Rosario\Documents\Embarcadero\Studio\Projects\Client_email_gicasoft\Unit2.pas</Transaction>
+    <Transaction>2018/10/30 17:03:38.000.267,C:\Users\Rosario\Documents\Embarcadero\Studio\Projects\Client_email_gicasoft\mainw.dfm=C:\Users\Rosario\Documents\Embarcadero\Studio\Projects\Client_email_gicasoft\Unit1.dfm</Transaction>
+    <Transaction>2018/10/30 17:03:38.000.267,C:\Users\Rosario\Documents\Embarcadero\Studio\Projects\Client_email_gicasoft\mainw.pas=C:\Users\Rosario\Documents\Embarcadero\Studio\Projects\Client_email_gicasoft\Unit1.pas</Transaction>
+    <Transaction>2018/10/31 01:40:23.000.255,=C:\Users\Rosario\Documents\Embarcadero\Studio\Projects\Client_email_gicasoft\Unit2.pas</Transaction>
+    <Transaction>2018/10/31 01:41:25.000.211,C:\Users\Rosario\Documents\Embarcadero\Studio\Projects\Client_email_gicasoft\Unit2.pas=C:\Users\Rosario\Documents\Embarcadero\Studio\Projects\Client_email_gicasoft\prop_impw.pas</Transaction>
+    <Transaction>2018/10/31 01:41:25.000.211,C:\Users\Rosario\Documents\Embarcadero\Studio\Projects\Client_email_gicasoft\Unit2.dfm=C:\Users\Rosario\Documents\Embarcadero\Studio\Projects\Client_email_gicasoft\prop_impw.dfm</Transaction>
+    <Transaction>2018/10/31 01:48:57.000.430,=C:\Users\Rosario\Documents\Embarcadero\Studio\Projects\Client_email_gicasoft\utility.pas</Transaction>
+    <Transaction>2018/12/14 00:34:27.000.442,=C:\Users\Rosario\Documents\Embarcadero\Studio\Projects\Client_email_gicasoft\Unit2.pas</Transaction>
+    <Transaction>2018/12/14 00:36:40.000.969,=C:\Users\Rosario\Documents\Embarcadero\Studio\Projects\Client_email_gicasoft\OpenSSLUtils.pas</Transaction>
+    <Transaction>2018/12/14 14:36:49.000.996,C:\Users\Rosario\Documents\Embarcadero\Studio\Projects\Client_email_gicasoft\OpenSSLUtils.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
