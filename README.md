@@ -1,6 +1,6 @@
 # gica_office
 
-sul sito web https://www.gicasoft.it è già presente una versione del software per la fattura elettronica che crea il file xml e lo invia. Il software riceve pure le email, eventuali fatture di acquisto e le notifiche ricevute dalla agenzia delle entrate.
+sui siti web https://www.gicasoft.it e https://www.gicaservice.it/ è già presente una versione del software per la fattura elettronica che crea il file xml e lo invia. Il software riceve pure le email, eventuali fatture di acquisto e le notifiche ricevute dalla agenzia delle entrate.
 
 Peccato che il software è scritto in delphi 6 per l'80% soltanto ultimamente con la comunity edition ho creato dei moduli con l'ultima versione di delphi.
 La versione attualmente esistente ha archivi un po mdb e un po gli obsoleti paradox gestiti con il bde. :(
@@ -28,6 +28,10 @@ Primo step del progetto :
      Per visualizzare le fatture uso un software preso qui su github ... devo ricercarlo e metterò il link.
      
      26/07/2021 (domani) posterò il codice sorgente del software per inviare le pec con la fattura elettronica e ricevere le notifiche e fatture di acquisto. Il software chiamato project1 ( :( ) è strettamente legato al programma gica_office che lo richiama con il comando winexec in delphi 6 e createprocess con delphi 10.3.
+     
+     Ing. Rosario Giacalone
+     https://www.gicasoft.it 
+     https://www.gicaservice.it/
      
      
      
